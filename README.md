@@ -1,2 +1,2 @@
 # Aplikacja_ToDoList
-projekt z zajęć KCK
+Project 1 - Human Computer Communication lab
